@@ -6,7 +6,7 @@ import Form from './Form'
 class App extends Component {
     state = {
       characters: [  {
-        name: 'Charlie',
+        name: 'DIego',
         job: 'Janitor',
       },],
     }
