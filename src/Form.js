@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 
-class Form extends Component {
+class Fo extends Component {
     constructor(props) {
         super(props);
         
