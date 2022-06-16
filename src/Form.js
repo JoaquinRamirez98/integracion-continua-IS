@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 
 class Form extends Component {
-    constructor(props) {
+    constrtor(props) {
         super(props);
         
         this.initialState = {
